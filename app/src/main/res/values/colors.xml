@@ -2,5 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="main">#976a4e</color>
+    <color name="m500">#976a4e</color>
+    <color name="n50">#f7f3ef</color>
+    <color name="m100">#ebe1d6</color>
+    <color name="m200">#d8c4b0</color>
+    <color name="m300">#c1a083</color>
+    <color name="m400">#af8260</color>
+    <color name="m600">#895a45</color>
+    <color name="m700">#6e463a</color>
+    <color name="m800">#6e463a</color>
+    <color name="m900">#523531</color>
+    <color name="m950">#2e1c1a</color>
 </resources>
